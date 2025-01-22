@@ -8,6 +8,7 @@
 .dice{
     width: 15%;
     height: 15%;
+    cursor: pointer;
 }
 #rollb{
     width: 40%;
