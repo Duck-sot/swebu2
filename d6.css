@@ -1,20 +1,22 @@
-#flex-container{
+#flex-container {
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
     height: 100vh;
 }
 
-.dice{
+.dice {
     width: 15%;
     height: 15%;
     cursor: pointer;
 }
-#rollb{
+
+#rollb {
     width: 40%;
     height: 20%;
     color: aqua;
 }
-body{
+
+body {
     background-color: gray;
 }
